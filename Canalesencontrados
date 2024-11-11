@@ -1,0 +1,603 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", CANAL 2 EL SALVADOR
+
+https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4 EL SALVADOR
+
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live/live-audio_0=64000-video=2000000.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="EL SALVADOR",CANAL 6 EL SALVADOR
+
+https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="EL SALVADOR",TCS+ 
+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-768x651.png" group-title="EL SALVADOR", Canal 3 
+
+https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[D] CANAL 10 sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_del_Gobierno_de_El_Salvador_%282019%29.svg/2560px-Logo_del_Gobierno_de_El_Salvador_%282019%29.svg.png" group-title="EL SALVADOR",CANAL 10 EL SALVADOR 
+
+    http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
+
+    
+
+#EXTINF:-1 tvg-id="" tvg-name="[D] CANAL 11 sv" tvg-logo="https://lh3.googleusercontent.com/proxy/MLyPYq_XUtUTQbAatxAmHRte3nJkqeRlkoCcZUH-2BkJgA5CT-RsfOSnCiCEIeSsjWdDUY2Rtqx7uzuK" group-title="EL SALVADOR",[LAT] CANAL 11  EL SALVADOR
+
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[D] CANAL 12 sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_12_El_Salvador_2010.png" group-title="EL SALVADOR",[LAT] CANAL 12 EL SALVADOR
+
+https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[D] CANAL 17 sv" tvg-logo="https://pbs.twimg.com/profile_images/3753439204/fbdddf5235cb50efc6e0e60919d7211b_400x400.jpeg" group-title="EL SALVADOR",[LAT] CANAL 17 EL SALVADOR
+
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1885683014_b1428000_DVR_sleng.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[D] CANAL 21 sv el sal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/1200px-Canal-21.png" group-title="EL SALVADOR",[LAT] CANAL 21 EL SALVADOR
+
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[D] CANAL WOW sv el sal" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="EL SALVADOR",[LAT] CANAL WOW EL SALVADOR
+
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/tvu_salvador.jpg" group-title="EL SALVADOR",TV USULUTECA 
+
+http://168.227.22.18:1935/live/mobile-113/playlist.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://el15tv.com/img/IMG_0286.jpg" group-title="EL SALVADOR", CANAL 15 
+
+https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8 
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/carga/2022/01/Canal-orbita-El-Salvador-en-vivo-300x193.jpg" group-title="EL SALVADOR",ORBITA TV 
+
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.diariotrv.com/media/diariotrv/images/2022/07/03/2022070322053487885.png" group-title="EL SALVADOR", TRV
+
+http://64.71.148.2:1935/latin/encoder44/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[D] CANAL 13 UTAH" tvg-logo="https://descubresilomiras.000webhostapp.com/images/CANAL13_UTAH.jpg" group-title="UTAH EE",[EN] CANAL 13 UTAH
+
+https://content.uplynk.com/channel/c80f6f27bc1b48099bbbd202fde01656.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.fox13now.com%2F&ad.cust_params=user_id%3D499a6c48-b6ba-427b-a24b-28427767b6e8%26givn%3Dundefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg?p=facebook" tvg-group="DEPORTES2", BEIN EXTRA 
+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" tvg-group="DEPORTES2", BEIN EXTRA2 
+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8  
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png"group-title="DEPORTES2",LIGA ESPAÑOLA 
+
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/340px-Bundesliga_logo_%282017%29.svg.png" group-title="DEPORTES2",BUNDESLIGA (3) 
+
+https://af.ayas.ir/hls2/varzeshtv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="FOXDEPORTES" tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="DEPORTES2",LIGA ARABE 
+
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/400px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES2", MLS 
+
+https://mlb.mrgamingstreams.com/espnd.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/FIFA-logo-png-large-800x263.png" group-title="DEPORTES2",FIFA 
+
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/FIFA-logo-png-large-800x263.png" group-title="DEPORTES2",FIFA 2 
+
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES2",SAN MARINO SPORT 
+
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DEPORTES2", M+ LIGA DE CAMPEONES 
+
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="DEPORTES2",Real Madrid
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1610429/beIN_SPORTS_XTRA_Logo.jpg" group-title="DEPORTES2", Bein Sports Extra 
+
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="DEPORTES2",SSC 1 (720p)
+
+https://af.ayassport.ir/hls2/ssc1.m3u8
+
+#EXTINF:-1 tvg-id="Strongman.de" tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="DEPORTES2",Strongman Champions League
+
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="DEPORTES2",Sports Italia
+
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="TNTSports2.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="DEPORTES2",TNT Sports 2 Brasil (720p) [Not 24/7]
+
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports3.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="DEPORTES2",TNT Sports 3 Brasil (720p) [Not 24/7]
+
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports4.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="DEPORTES2",TNT Sports 4 Brasil (720p) [Not 24/7]
+
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES2",BeIN SPORTS XTRA (720p)
+
+https://lnc-bein.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="DEPORTES2",BeIN SPORTS XTRA En Espanol (720p)
+
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RacingAmerica.us" tvg-logo="https://i.imgur.com/Eufk8rl.png" group-title="DEPORTES2",Racing America (720p)
+
+https://lnc-racing-america.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="DEPORTES2",Racing.com (720p)
+
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="DEPORTES2",Red Bull TV (1080p)
+
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cabletvhd.xyz/img/univision.svg" group-title="NOTICIAS", UNIVISION
+
+http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/300px-TeleSUR-Logo.svg.png" group-title="NOTICIAS", TELESUR 
+
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lanacion.com.ar/pf/resources/images/favicon-192.png?d=1368" group-title="NOTICIAS", LA NACION +
+
+https://ythlsgo.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="NOTICIAS" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
+
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-id="https://www.tvchinese.net/uploads/tv/cctv4america.jpg" group-title="NOTICIAS", CCTV-4 America 
+
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HispanTV" tvg-logo="http://notired.hol.es/wp-content/uploads/2017/08/hispantv.png" group-title="NOTICIAS",HispanTV
+
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/scan.png"  group-title="RADIOS", SCAN
+
+https://scan.watahosting.com/radio/8022/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/yxy.png"  group-title="RADIOS", YXY
+
+https://yxy.watahosting.com/radio/8020/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/yskl.png"  group-title="RADIOS", YSKL 
+
+https://media.dominiocreativo.com:8000/radioyskl
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/abc.png"  group-title="RADIOS", ABC
+
+https://streaming.rcs.com.sv/abc/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/radio-la-chevere.png"  group-title="RADIOS", LA CHEVERE
+
+https://streaming.rcs.com.sv/8006/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/radio-fiesta.png"  group-title="RADIOS", LA FIESTA
+
+https://sp4.colombiatelecom.com.co/8026/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/cool.png"  group-title="RADIOS", COOL FM
+
+https://media.dominiocreativo.com:8006/coolfm
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/ranchera.png"  group-title="RADIOS", RADIO RANCHERA
+
+https://sp4.colombiatelecom.com.co/8024/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/vox.png"  group-title="RADIOS", LA VOZ FM
+
+https://cast3.asurahosting.com/proxy/gabriel/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/radio-el-salvador.png"  group-title="RADIOS", 96.NUEVE
+
+https://streamingcwsradio30.com/8156/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/que-buena-san-salvador.png"  group-title="RADIOS", LA QUE BUENA
+
+https://cast3.my-control-panel.com/proxy/gabriel4/strea
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/femenina.png"  group-title="RADIOS", LA FEMENINA
+
+https://sp4.colombiatelecom.com.co/8028/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/laser.png"  group-title="RADIOS", 92.NUEVE
+
+https://sp4.colombiatelecom.com.co/8032/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/restauracion-san-salvador.png"  group-title="RADIOS", 100.CINCO
+
+https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/plus-101-3.png"  group-title="RADIOS", 103 PLUS
+
+https://media.dominiocreativo.com:9006/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/nueve.png"  group-title="RADIOS", 102 NUEVE
+
+https://streaming.rcs.com.sv/8012/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/laser-san-salvador.png"  group-title="RADIOS", 90.1 LASER
+
+https://sp4.colombiatelecom.com.co/8030/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/fuego-san-salvador.png"  group-title="RADIOS", FUEGO 107.7
+
+https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/0/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/rx.png"  group-title="RADIOS", 99.7 RX
+
+https://media.dominiocreativo.com:8010/radiorx
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/102-1-fm-san-salvador.png"  group-title="RADIOS", 102.1 VIVEFM
+
+https://servidor02.online/7082/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/impacto.png"  group-title="RADIOS", RADIO IMPACTO 
+
+https://radio.elsalvadordigital.net/proxy/impacto1
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/carnaval-san-miguel.png"  group-title="RADIOS", 97.3 CARNAVAL
+
+https://stream.zeno.fm/k6qexbz0vd0uv
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/la-urbana.png"  group-title="RADIOS", LA URBANA
+
+https://streaming.rcs.com.sv/8004/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.webrad.io/images/logos/radios-com-sv/guapa.png"  group-title="RADIOS", 99.7 LA GUAPA
+
+https://streaming.rcs.com.sv/8014/stream
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.onlineradiobox.com/img/l/3/62943.v7.png"  group-title="RADIOS", EMPERADOR
+
+http://199.115.115.71:8156
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.onlineradiobox.com/img/l/9/9879.v5.png"  group-title="RADIOS", ROMANTICAS EN INGLESH
+
+https://stream-156.zeno.fm/6d9untli93bvv?zs=CCQiX1aIRt6RoMctFP9WEw
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.onlineradiobox.com/img/l/5/66135.v16.png"  group-title="RADIOS", RADIO RETRO
+
+https://stream-156.zeno.fm/5115vsdnnnruv?zs=gXRaXJC3RbGPRKzTUTyUaA
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://i.pinimg.com/originals/07/48/91/074891d7b77433491e685200d52d66a6.jpg"  group-title="RADIOS", ROMANTICA
+
+https://stream-153.zeno.fm/57hqn9nz5k0uv?zs=gdCsiIlvQ3-8Kp6QW7WICQ
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://mmo.aiircdn.com/766/6452bbfb28781.png"  group-title="RADIOS", RITMO ROMANTICA
+
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://cdn.onlineradiobox.com/img/l/3/42633.v10.png"  group-title="RADIOS", LOS 80'S TOP
+
+https://80.streeemer.com/listen/80s/radio.mp3
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSV"  tvg-logo="https://th.bing.com/th/id/OIP.FNJtLQHr_Z_Z_CEVSAfzjgHaHa?w=156&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"  group-title="RADIOS", BEST OF 80'S & 90'S
+
+https://n09.radiojar.com/2vhx218s2tuvv?rj-ttl=5&rj-tok=AAABjUOiqcMArhPzFsR-xwIYmQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/bautista.jpg"  group-title="RADIO CRISTIANA", RADIO BAUTISTA
+
+https://s2.radio.co/s3a7dc3d82/listen
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/restauracion.jpg" group-title="RADIO CRISTIANA",RESTAURACION
+
+http://cdn-radio.elim.org.sv:8007/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/radiopaz.png" group-title="RADIO CRISTIANA", 88.5PAZ
+
+http://108.178.13.122:8369/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/nuevajerusalem.png" group-title="RADIO CRISTIANA",NUEVA JERUSALEM
+
+https://tecnoservix.stream/proxy/nuevajerusalem?mp=%2Fstream
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/enmanuel.jpg" group-title="RADIO CRISTIANA",EMANUEL
+
+https://stream-153.zeno.fm/twk1vq819u8uv?zs=yFAyNy-5SB6k8p3jNJidLg
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/elohim.png" group-title="RADIO CRISTIANA",ELOHIM
+
+https://whmsonic.playerfullhd.com/9498/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/radiovida.png" group-title="RADIO CRISTIANA",90.5 VIDA
+
+https://whmsonic.playerfullhd.com/8002/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/riosdeaguaviva.jpeg"group-title="RADIO CRISTIANA",RIOS DE AGUA VIVA
+
+https://panel.yupistream.com/proxy/ysagua/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/filipenses.png" group-title="RADIO CRISTIANA",FILIPENSES
+
+http://stream-157.zeno.fm/4d8tqkhwe5zuv?zs=EASXE1eiQ3CPWz3DDW3CmA
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/tomandodelafuente.png" group-title="RADIO CRISTIANA",TOMANDO DE LA FUENTE
+
+http://centova.playerfullhd.com:8029/tomandodelafuente
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/cristiana el salvador.jpg" group-title="RADIO CRISTIANA",CRISTIANA EL SALVADOR
+
+https://stream-155.zeno.fm/62t2w9vxcfhvv?zs=w5Pf0lqnRbeRsRWuai0xHQ
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/iglesiacristianajosue.jpg" group-title="RADIO CRISTIANA",EVANGELICA JOSUE
+
+https://panel.yupistream.com/proxy/ysjosue/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/radiojuda.jpg" group-title="RADIO CRISTIANA",JUDA
+
+https://radios.sonidoshd.com/8234/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="RADIOSVC" tvg-logo="https://descubresilomiras.000webhostapp.com/images/evangelicaJosue.jpg" group-title="RADIO CRISTIANA",IGLESIA CRISTIANA JOSUE
+
+https://listen.radioking.com/radio/229942/stream/273613
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOSVC"  tvg-logo="https://bendiciendoradio.com/wp-content/uploads/2020/06/newlogo-1.png"  group-title="RADIO CRISTIANA", 24 HORAS ALABANZAS
+
+https://bendicie-edperaza.radioca.st/stream
+
+
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOUTC"  tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/x3Gh3UKVxG.jpg"  group-title="[UT]RADIO CRISTIANA", Christian Power Praise
+
+http://listen.christianpowerpraise.net/stream/7
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOUTC"  tvg-logo="https://crossoverfm.org/wp-content/uploads/CrossOverFM_Logo.png"  group-title="[UT]RADIO CRISTIANA", CrossOver FM
+
+https://ice8.securenetsystems.net/KCHG?playSessionID=64BCD295-FD62-EFF6-D0AE0A3DF91DC1ED
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOUTC"  tvg-logo="https://live.mystreamplayer.com/configs/images/frn_icon-new.png"  group-title="[UT]RADIO CRISTIANA",Family Radio
+
+https://ais-sa3.cdnstream1.com/2640_64.aac?listenerId=e78a0140dffff8bd72903dd41c20c792&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1706561597
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOUTC"  tvg-logo="https://cdn-profiles.tunein.com/s33828/images/logod.png?t=1"  group-title="[UT]RADIO CRISTIANA",K-LOVE K203EY
+
+https://maestro.emfcdn.com/stream_for/k-love/tunein/aac
+
+#EXTINF:-1 tvg-id="1" tvg-name="RADIOUTC"  tvg-logo="https://storage2.snappages.site/P5GMD3/assets/images/2141690_1751x800_500.png"  group-title="[UT]RADIO CRISTIANA",KEY-RADIO
+
+https://ic2.sslstream.com/keyy-am?rnd=5502
+
+
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="ENTRETENER"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" group-title="ENTRETENIMIENTO", Estrella TV
+
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="ENTRETENER" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",LAS ESTRELLAS
+
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="ENTRETENER" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",ADN 40
+
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2008/07/el-vidente-poster-719x1024.jpg" group-title="PELICULAS", EL VIDENTE
+
+https://tvinnov.online/Peliculas/EL%20VIDENTE%20LATINO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://duckduckgo.com/i/1e1a13ec.jpg" group-title="PELICULAS", GEOT-TORMENTA
+
+https://tvinnov.online/Peliculas/GeoTormenta%20LATINO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://duckduckgo.com/i/3e02c85d.jpg" group-title="PELICULAS", DIA DESPUES DE MANANA
+
+https://tvinnov.online/Peliculas/El%20D%C3%ADa%20Despu%C3%A9s%20de%20Ma%C3%B1ana%20SUB/El%20D%C3%ADa%20Despu%C3%A9s%20de%20Ma%C3%B1ana.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://duckduckgo.com/i/cf8fe5c7096b1f3b.png" group-title="PELICULAS", GLADIADOR
+
+https://tvinnov.online/Peliculas/Gladiator%20(Gladiador)%20(2000)LAT.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://zonacine.lat/wp-content/uploads/2021/04/VPJGWbHC4OR0SP4YDsMNg6kWBJ.jpg" group-title="PELICULAS", DIOS NO ESTA MUERTO 2
+
+https://tvinnov.online/Peliculas/God_s_Not_Dead_2_2016_Dios_no_Esta_Muerto_ESP.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://i.imgur.com/009Kfug.jpg" group-title="PELICULAS", HIJO DE DIOS
+
+https://tvinnov.online/Peliculas/Hijo%20de%20Dios.MP4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://es.web.img3.acsta.net/pictures/17/11/08/09/46/1315249.jpg" group-title="PELICULAS", LA LIGA DE LA JUSTICIA
+
+https://tvinnov.online/Peliculas/La%20Liga%20de%20la%20Justicia%20de%20Zack%20Snyder%20LATINO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://duckduckgo.com/i/f8dfd029.jpg" group-title="PELICULAS", SIN REGRESO A CASA
+
+https://tvinnov.online/Peliculas/Spider-Man-%20Sin%20camino%20a%20casa%20(2021)%201080p%20HDCam%20Latino.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://m.media-amazon.com/images/I/51We4JMP6lL._SX300_SY300_QL70_FMwebp_.jpg" group-title="PELICULAS", TRANSFORMER
+
+https://tvinnov.online/Peliculas/transformers/TRANSFORMERS%201.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo=https://play.google.com/store/movies/details/Transformers_La_venganza_de_los_ca%C3%ADdos?id=M-VqZa5RbgE&hl=es_UY&gl=ES" group-title="PELICULAS", TRANSFORMER LA VENGANZA DE LOS CAIDOS
+
+https://tvinnov.online/Peliculas/transformers/TRANSFORMERS%202%20LA%20VENGANZA%20DE%20LOS%20CAIDOS.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELICULAS" tvg-logo="https://m.media-amazon.com/images/I/71juhH6-CwL._AC_UF894,1000_QL80_.jpg" group-title="PELICULAS", TRANSFORMER LADO OSCURO DE LA LUNA
+
+https://tvinnov.online/Peliculas/transformers/TRANSFORMERS%203%20EL%20LADO%20OSCURO%20DE%20LA%20LUNA.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.megacinefullhd.net/wp-content/uploads/2017/05/Transformers-La-era-de-la-extinci%C3%B3n-2014.jpg" group-title="PELICULAS", LA ERA DE LA EXTINCION
+
+https://tvinnov.online/Peliculas/transformers/TRANSFORMERS%204%20LA%20ERA%20DE%20LA%20EXTINCION.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://duckduckgo.com/i/630372693f240d11.jpg" group-title="PELICULAS", ULTIMO CABALLERO
+
+https://tvinnov.online/Peliculas/transformers/TRANSFORMERS%205%20EL%20ULTIMO%20CABALLERO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://duckduckgo.com/i/55d5f0e5a8dd0fa3.png" group-title="PELICULAS",BUMBLEBEE
+
+https://tvinnov.online/Peliculas/transformers/TRANSFORMERS%206%20BUMBLEBEE.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/21/15/51/3458190.jpg" group-title="PELICULAS",ALERTA ROJA
+
+https://tvinnov.online/Peliculas/Alerta%20roja/Alerta%20roja%20LATINO.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/69/81/20062619.jpg" group-title="PELICULAS",CONOCES A JOE BLACK
+
+https://tvinnov.online/Peliculas/Conoces_a_%20Joe_Black.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/92/25/88/20188922.jpg" group-title="PELICULAS",DURO DE MATAR
+
+https://tvinnov.online/Peliculas/Die%20Hard%20(Duro%20de%20matar)%20(1988)/Die%20Hard%20(Duro%20de%20matar)%20(1988)LAT.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://duckduckgo.com/i/c72bf6b6.jpg" group-title="PELICULAS", DURO DE MATAR 2
+
+https://tvinnov.online/Peliculas/Die%20Hard%202%20(Duro%20de%20matar%202)%20(1990)/Die%20Hard%202%20(Duro%20de%20matar%202)%20(1990)LAT.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/db/5a/d3/db5ad30e903c68a9278d71e9aac76c42---online-soy.jpg" group-title="PELICULAS",DURO DE MATAR 3
+
+https://tvinnov.online/Peliculas/Die%20Hard%20With%20a%20Vengeance%20(Duro%20de%20matar%203)%20(1995)/Die%20Hard%20With%20a%20Vengeance%20(Duro%20de%20matar%203)%20(1995)LAT.mp4
